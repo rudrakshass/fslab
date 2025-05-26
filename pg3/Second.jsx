@@ -1,3 +1,5 @@
+import React from "react";
+import './styles.css';
 import Post from "./first.js";
 
 const Posts = () => { const blogPosts = [

@@ -1,4 +1,5 @@
-import Posts from "./second";
+import React from "react";
+import './styles.css';
 const Post = ({ post: { title, body, imgUrl, author }, index }) =>
 {
     return (
